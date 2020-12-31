@@ -20,12 +20,10 @@
    
 6. 윈도우를 깔아보자
    * [윈도우 설치용 usb만들기](lecture/lecture6.md)  
+   * [윈도우 설치](lecture/lecture6-1.md)  
   
 7. 실행하고 드라이버들 깔기
    * [드라이버 설치](lecture/lecture7.md)
   
-8. 알아서 필요한 프로그램들 설치하기
-   * [원하는 프로그램들을 설치하자](lecture/lecture8.md)  
-   
-9. 재밌게 잘 쓰기
-   * [잘 사용하자](lecture/lecture9.md)  
+8. 알아서 잘쓰자 
+   * [잘쓰자](lecture/lecture8.md)    

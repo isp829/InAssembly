@@ -1,8 +1,9 @@
-필요한 프로그램들 설치
+알아서 잘쓰자  
 =======================
-
-------------------------------------  
+![001](https://github.com/isp829/-/blob/main/image/lecture8/001.jpg)  
+* 필요한건 기본적으로 다 깔았다.  
+* 이제는 본인이 필요한 것들을 받아서 나만의 컴퓨터를 완성시키자  
+------------------------  
 [목차로](https://github.com/isp829/-/blob/master/README.md)  
-[다음](https://github.com/isp829/-/blob/master/lecture/lecture9.md)  
 -----------------------------
     
