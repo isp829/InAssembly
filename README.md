@@ -17,6 +17,7 @@
    
 5. 진짜 조립해보자
    * [조립해보기](lecture/lecture5.md)  
+   * [만약에 그래픽 카드를 단다면](lecture/lecture5-G.md)    
    
 6. 윈도우를 깔아보자
    * [윈도우 설치용 usb만들기](lecture/lecture6.md)  

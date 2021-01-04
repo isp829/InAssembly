@@ -55,6 +55,6 @@ CPU 쿨러선, ssd전원선들을 연결시켜준다.
 * 전원을 켜보면 아주 잘된다.  
 ------------------------------------  
 [목차로](https://github.com/isp829/-/blob/master/README.md)  
-[다음](https://github.com/isp829/-/blob/master/lecture/lecture6.md)  
+[다음](https://github.com/isp829/-/blob/master/lecture/lecture5-G.md)      
 -----------------------------
     
